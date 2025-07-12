@@ -1,0 +1,1 @@
+export { default as profile_logo } from './profile_logo.png';   
